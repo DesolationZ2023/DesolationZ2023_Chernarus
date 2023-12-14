@@ -1,10 +1,10 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://168.194.43.150/Update/filelist.json",
-	"DownloadUpdate": "http://168.194.43.150/ClientGame/",		
+	"FileList":"http://45.4.49.79:30016/DesolationZ/Server/filelist.json",
+	"DownloadUpdate": "http://45.4.49.79:30016/DesolationZ/DesolationZ_Cliente/",		
 	"News": [
-		"https://spard2.github.io/dayzupdate/News/0.png",
-		"https://spard2.github.io/dayzupdate/News/1.png",
-		"https://spard2.github.io/dayzupdate/News/2.png"
+		"https://desolationz2023.github.io/DesolationZ2023_Chernarus/News/0.png",
+		"https://desolationz2023.github.io/DesolationZ2023_Chernarus/News/1.png",
+		"https://desolationz2023.github.io/DesolationZ2023_Chernarus/News/1.png"
 	]			
 }
