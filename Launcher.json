@@ -1,6 +1,6 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://45.4.49.79:2312/DesolationZ/Server/filelist.json",
+	"FileList":"http://45.4.49.79:2312/DesolationZ/filelist.json",
 	"DownloadUpdate": "http://45.4.49.79:2312/DesolationZ/DesolationZ_Cliente/",		
 	"News": [
 		"https://desolationz2023.github.io/DesolationZ2023_Chernarus/News/0.png",
